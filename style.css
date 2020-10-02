@@ -26,8 +26,8 @@
  height: 300px;
  width: 200px;
  background-color: blue;
- border:100px solid black;
- float: left;
+ border:1px solid black;
+ margin: 0px 0px 100px 0px;
 }
 #main_content{
  height: 400px;
@@ -53,6 +53,6 @@
  background-color: purple;
  border:1px solid black;
  float: bottom;
- margin: 5px;
+ margin: 5px 10px 10px 0px;
 
 }
