@@ -11,16 +11,12 @@
  float: left; */
  overflow: hidden;
  height: auto;
- 
-
 }
 #header{
  height: 150px;
  background-color: green;
  border:1px solid black;
- margin: 20px 20px 0px 20px;
-
- 
+ margin: 20px 20px 0px 20px; 
 }
 #navigation{
  height: 300px;
@@ -35,8 +31,7 @@
  background-color: red;
  border:1px solid black;
  float:right;
- margin: 0px 20px 20px 20px;
- 
+ margin: 0px 20px 20px 20px; 
 }
 .subcontents{
  height: 200px;
@@ -45,7 +40,6 @@
  border:1px solid black;
  float:left;
  margin: 5px;
-
 }
 #advertisement{
  height: 120px;
@@ -54,5 +48,4 @@
  border:1px solid black;
  float: bottom;
  margin: 5px 10px 10px 0px;
-
 }
